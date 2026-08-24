@@ -1,0 +1,27 @@
+{
+  "models": [
+    "decision_tree",
+    "xgboost",
+    "mlp"
+  ],
+  "data_artifacts": {
+    "train": {
+      "X": "X_train.joblib",
+      "y": "y_train.joblib"
+    },
+    "test": {
+      "X": "X_test.joblib",
+      "y": "y_test.joblib"
+    }
+  },
+  "normalization_source": "standard_scaler.joblib",
+  "safety_context_source": "X_test plus deceased rows from supplied partitions",
+  "psyke_config": {
+    "max_samples": 8000,
+    "max_depth": 4,
+    "max_leaves": 12,
+    "random_state": 42
+  },
+  "output_root": "C:\\Users\\ACER-PC\\Desktop\\Projects\\PythonProjects\\trustworthy_clinical_cds\\reports\\safety_symbolic_model_analysis",
+  "theory_root": "C:\\Users\\ACER-PC\\Desktop\\Projects\\PythonProjects\\trustworthy_clinical_cds\\theories\\safety_symbolic_model_analysis"
+}

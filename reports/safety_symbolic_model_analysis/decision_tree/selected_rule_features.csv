@@ -1,0 +1,10 @@
+feature,standardized
+metformin,False
+discharge_disposition_id_1,False
+discharge_disposition_id_11,False
+discharge_disposition_id_22,False
+medical_specialty_InternalMedicine,False
+time_in_hospital,True
+num_lab_procedures,True
+number_emergency,True
+number_inpatient,True

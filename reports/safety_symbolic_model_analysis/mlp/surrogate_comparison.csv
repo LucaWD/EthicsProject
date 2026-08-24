@@ -1,0 +1,3 @@
+surrogate,constant_label,coverage,fidelity_overall,task_accuracy_overall,n_rules,max_rule_length
+Trivial constant rule,not_readmitted,1.0,0.9661585792196895,0.9120402740875402,1,0
+PSyKE CART,not applicable,1.0,0.946441057194798,0.8614179834988114,12,4

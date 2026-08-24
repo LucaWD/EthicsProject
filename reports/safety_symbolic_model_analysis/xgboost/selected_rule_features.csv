@@ -1,0 +1,11 @@
+feature,standardized
+metformin,False
+discharge_disposition_id_1,False
+discharge_disposition_id_11,False
+discharge_disposition_id_13,False
+payer_code_Unknown,False
+diag_1_Neoplasms,False
+time_in_hospital,True
+num_lab_procedures,True
+number_inpatient,True
+number_diagnoses,True

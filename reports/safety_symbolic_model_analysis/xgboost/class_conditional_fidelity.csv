@@ -1,0 +1,3 @@
+black_box_class,n_black_box_predictions,symbolic_coverage,class_conditional_fidelity
+not_readmitted,8049,1.0,0.9468256926326252
+readmitted,6253,1.0,0.9894450663681433

@@ -1,0 +1,18 @@
+{
+  "model_key": "xgboost",
+  "model_label": "XGBoost",
+  "model_path": "C:\\Users\\ACER-PC\\Desktop\\Projects\\PythonProjects\\trustworthy_clinical_cds\\models\\xgboost_best.joblib",
+  "threshold": 0.5,
+  "n_model_features": 148,
+  "normalization_source": "standard_scaler.joblib",
+  "psyke_config": {
+    "max_samples": 8000,
+    "max_depth": 4,
+    "max_leaves": 12,
+    "random_state": 42
+  },
+  "created_utc": "2026-08-24T08:43:49.840841+00:00",
+  "python": "3.11.1",
+  "pandas": "2.3.3",
+  "scikit_learn": "1.7.2"
+}

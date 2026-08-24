@@ -1,0 +1,9 @@
+feature,standardized
+glipizide,False
+glyburide,False
+discharge_disposition_id_1,False
+discharge_disposition_id_5,False
+discharge_disposition_id_11,False
+discharge_disposition_id_22,False
+num_lab_procedures,True
+number_inpatient,True

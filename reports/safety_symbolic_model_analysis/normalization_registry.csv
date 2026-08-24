@@ -1,0 +1,12 @@
+feature,mean,scale,post_inverse,source
+time_in_hospital,4.294000419551081,2.9562501741853624,identity,standard_scaler.joblib
+num_lab_procedures,43.057286203761976,19.955773802781923,identity,standard_scaler.joblib
+num_procedures,1.4312985105936649,1.760476165528414,identity,standard_scaler.joblib
+num_medications,2.696375610904821,0.5047645337041163,expm1,standard_scaler.joblib
+number_outpatient,0.22683728410600656,0.6608007006122673,identity,standard_scaler.joblib
+number_emergency,0.09651422977414167,0.3840243982283832,identity,standard_scaler.joblib
+number_inpatient,0.16647437242150898,0.5113163249486314,identity,standard_scaler.joblib
+number_diagnoses,7.244388504300399,1.9785112661075965,identity,standard_scaler.joblib
+age,6.065764631843927,1.592357463326364,identity,standard_scaler.joblib
+max_glu_serum,0.08279141318788896,0.4077748493032923,identity,standard_scaler.joblib
+A1Cresult,0.39714006013565484,0.9201929059491375,identity,standard_scaler.joblib

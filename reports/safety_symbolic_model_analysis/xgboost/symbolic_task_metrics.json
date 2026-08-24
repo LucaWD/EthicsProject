@@ -1,0 +1,19 @@
+{
+  "n_samples": 14302,
+  "prevalence": 0.08795972591245979,
+  "predicted_positive_rate": 0.4625227240945322,
+  "true_negatives": 7215,
+  "false_positives": 5829,
+  "false_negatives": 472,
+  "true_positives": 786,
+  "accuracy": 0.5594322472381486,
+  "balanced_accuracy": 0.5889645733725499,
+  "precision": 0.11882086167800454,
+  "recall_sensitivity": 0.6248012718600954,
+  "specificity": 0.5531278748850046,
+  "negative_predictive_value": 0.9385976323663328,
+  "f1": 0.19966975739870443,
+  "f2": 0.33742594659568986,
+  "recognized_rows": 14302,
+  "recognized_rate": 1.0
+}
